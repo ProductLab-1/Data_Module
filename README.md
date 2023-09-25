@@ -29,7 +29,7 @@ Enough reading! Time to make some stuff!
         1. Lesson 1: SQL Basics
         2. Lesson 2: More advanced SQL queries
         3. Lesson 3: Relational queries in SQL
-    * Required work to be uploaded to your github repository: 
+    * **Required work to be uploaded to your github repository:** 
         1. Project: Design a store database
         2. Project: Data dig
             * note: for this project you'll either need build your own dataset within the sandbox OR 
@@ -42,7 +42,7 @@ Enough reading! Time to make some stuff!
     * Parts of this Udemy course are dry, however, all of it is extremely applicable to projects you may be on. Follow along with this course and complete the final project. 
     * Assigned sections: 
         * all sections assigned. Note: we recommend you change the viewing speed to 1.5x or 2x
-    * Required work to be uploaded to your github repository: 
+    * **Required work to be uploaded to your github repository:**
         1. Assigment 2: Data Modelling - Relationships & Optionality
 
 ## Assignments: Challenge
