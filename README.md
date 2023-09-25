@@ -43,7 +43,7 @@ Enough reading! Time to make some stuff!
     * Assigned sections: 
         * all sections assigned. Note: we recommend you change the viewing speed to 1.5x or 2x
     * Required work to be uploaded to your github repository: 
-        4. Assigment 2: Data Modelling - Relationships & Optionality
+        1. Assigment 2: Data Modelling - Relationships & Optionality
 
 ## Assignments: Challenge
 If you have additional time or you want to come back to this to enhance your final project, feel free to tackle this challenge project! 
