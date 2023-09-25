@@ -51,7 +51,7 @@ If you have additional time or you want to come back to this to enhance your fin
 1. [An introduction to building with MongoDB](https://www.mongodb.com/docs/guides/)
     * You worked with relational databases while learning SQL. Now you have the opportunity to build and query a non-relational database. This project is doable and will help you understand what a developer experiences when working with non-relational databases like MongoDB. 
 
-### Assignment Format 
+## Assignment Format 
 At the end of the week we expect your Github repo to have the following files: 
 
 1. store_db_yourname.sql
