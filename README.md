@@ -46,7 +46,7 @@ Enough reading! Time to make some stuff!
         1. Assigment 2: Data Modelling - Relationships & Optionality
 
 ## Assignments: Challenge
-If you have additional time or you want to come back to this to enhance your final project, feel free to tackle this challenge project! 
+If you have additional time or you want to come back to later to enhance your final project, feel free to tackle this challenge project! 
 
 1. [An introduction to building with MongoDB](https://www.mongodb.com/docs/guides/)
     * You worked with relational databases while learning SQL. Now you have the opportunity to build and query a non-relational database. This project is doable and will help you understand what a developer experiences when working with non-relational databases like MongoDB. 
