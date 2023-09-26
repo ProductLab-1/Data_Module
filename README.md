@@ -63,4 +63,4 @@ At the end of the week we expect your Github repo to have the following files:
 
 ## Troubleshooting
 
-If you have any trouble navigating the GitHub repo or working on the exercises, please don't hesitate to ask for help. We have a team who are happy to assist you.
+If you have any trouble navigating the GitHub repo or working on the exercises, please don't hesitate to ask for help. The Admin Team and your Instructors are always happy to help.
