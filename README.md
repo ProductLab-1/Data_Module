@@ -18,8 +18,10 @@
 
 ## Assignments: Hands On
 Enough reading! Time to make some stuff! 
+1. Create a new repository in your Github called "Data_Module_yourname"
+    * This is where you will store your work for the module. 
 
-1. [An introduction to SQL](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) 
+2. [An introduction to SQL](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) 
     * **Note: use chatGPT as a last resort, try to write the queries yourself or you won't learn**
     * Kahn Academy has great material to get you started on SQL. This tutorial has videos as well as hands-on problems to learn from. 
     * A few notes on how to use this website
@@ -39,7 +41,7 @@ Enough reading! Time to make some stuff!
                 3. THEN write your queries to answer the questions in the project
         3. Project: Famous people
 
-2. [Business Analysis and Data Modelling](https://eylearning.udemy.com/course/business-analysis-data-modelling/)
+3. [Business Analysis and Data Modelling](https://eylearning.udemy.com/course/business-analysis-data-modelling/)
     * Parts of this Udemy course are dry, however, all of it is extremely applicable to projects you may be on. Follow along with this course and complete the final project. 
     * Assigned sections: 
         * all sections assigned. Note: we recommend you change the viewing speed to 1.5x or 2x
