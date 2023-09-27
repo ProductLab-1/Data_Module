@@ -20,7 +20,7 @@
 Enough reading! Time to make some stuff! 
 
 1. [An introduction to SQL](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) 
-    * **Note: do not use chatGPT, try to write the queries yourself or you won't learn**
+    * **Note: use chatGPT as a last resort, try to write the queries yourself or you won't learn**
     * Kahn Academy has great material to get you started on SQL. This tutorial has videos as well as hands-on problems to learn from. 
     * A few notes on how to use this website
         * During a SQL tutorial video if you want to try it out yourself hit the "Spin-off" button. Which will open up a sandbox for you to type in SQL queries yourself and follow along with the video! 
